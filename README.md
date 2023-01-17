@@ -85,3 +85,16 @@ Year of manufacture is also have a bearing on the price of the vehicle.
  - The second largest is Chevrolet with 3110 White Vehicles Listed.
  - Both these manufacturers are American owned.
  - The third largest is Toyota with 1167 White Vehicles Listed. (Japanese Owned)
+
+ ## Satuation in the market - Tim
+### Summary
+- Counted the total number of used cars on sale for each manufacturer
+- The percentage of different manufacturers were visualised through a pie chart
+- The average listing price for each car was calculated and visualised as a bar graph
+- Calculated the top and bottom 5 average costing car
+- Created a boxplot demonstrating the IQR for each used car listing, grouped by their manufacturer
+### Observations
+- Ford, chervolet and toyota make up more than 1/3 of the used sales market
+- May conclude that the used sales market for ford, chervolet and toyota cars are saturated
+- Though Ford, Chervolet and Toyota make up 1/3 of the market, their average prices are relatively high still, thus indicating there is still a daemand for these cars
+- Not only does Ford have the largest number of cars available, they also have the 4th IQR. Thus, indicating that they are easy to buy second hand, have large profit margins (since their prices on average are high) and they'll be affordable to a larger range
